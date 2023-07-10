@@ -41,7 +41,9 @@ This command will test the smart contract and compute the estimated gas cost. Th
 
 The library has been configured to output the estimated gas costs to a `gas-report.txt` file. You can then view the estimated gas consumption for each of the smart contract functions in this file. The `optimizedFunction()` should output a lower gas consumption to the `notOptimizedFunction()`.
 
-The command will also check that the sum of the array returns 0. You can refer to 'Expected Output' to visualise how the output should be generated
+The command will also check that the sum of the array returns 0. You can refer below to visualise how the output should be generated
+
+<img width="673" alt="image" src="https://github.com/clement-stackup/gas_challenge/assets/120361535/01237b5e-5cc6-4d53-9b55-ef13da282cb9">
 
 ## Bounty Submission
 
