@@ -1,5 +1,7 @@
 # Gas Optimization Bounty by StackUp
 
+![image](https://github.com/clement-stackup/gas_challenge/assets/120361535/49731229-a936-4494-b7b2-06c22be0b127)
+
 ## Overview of Bounty
 
 Gas is the unit of measurement for the computational work required to execute a transaction or deploy a smart contract on the Ethereum blockchain. Gas optimization techniques are important because they can significantly reduce the cost of deploying and executing smart contracts, making them more affordable for users.
