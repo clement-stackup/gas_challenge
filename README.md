@@ -50,4 +50,5 @@ This command will also check that the sum of the array returns 0. You can refer 
 
 ## Bounty Submission
 
-Upload all your working files to your GitHub Repository and submit your GitHub Repository URL to the StackUp Gas Optimization Challenge Bounty Page
+Upload all your working files to your GitHub Repository and submit your GitHub Repository URL to the StackUp Gas Optimization Challenge Bounty Page to successfully complete this challenge!
+
