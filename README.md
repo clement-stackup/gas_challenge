@@ -39,9 +39,11 @@ npx hardhat test
 
 This command will test the smart contract and compute the estimated gas cost. This is computed using the [hardhat-gas-reporter](https://www.npmjs.com/package/hardhat-gas-reporter) library.
 
-The library has been configured to output the estimated gas costs to a `gas-report.txt` file. You can then view the estimated gas consumption for each of the smart contract functions in this file. The `optimizedFunction()` should output a lower gas consumption to the `notOptimizedFunction()`.
+The library has been configured to output the estimated gas costs to a new `gas-report.txt` file on your root directory. You can then view the estimated gas consumption for each of the smart contract functions in this file. The `optimizedFunction()` should output a lower gas consumption to the `notOptimizedFunction()` as shown below.
 
-The command will also check that the sum of the array returns 0. You can refer below to visualise how the output should be generated
+<img width="1000" alt="image" src="https://github.com/clement-stackup/gas_challenge/assets/120361535/98813689-46d4-49ed-901c-330736bf9277">
+
+This command will also check that the sum of the array returns 0. You can refer below to view the terminal console when all tests have passed!
 
 <img width="673" alt="image" src="https://github.com/clement-stackup/gas_challenge/assets/120361535/01237b5e-5cc6-4d53-9b55-ef13da282cb9">
 
