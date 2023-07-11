@@ -1,6 +1,6 @@
 # Gas Optimization Bounty by StackUp
 
-![image](https://github.com/clement-stackup/gas_challenge/assets/120361535/49731229-a936-4494-b7b2-06c22be0b127)
+![12 July - Gas Optimisation Challenge](https://github.com/clement-stackup/gas_challenge/assets/120361535/21c826fb-8776-4837-a8fe-b7040426eafa)
 
 ## Overview of Bounty
 
@@ -43,12 +43,11 @@ This command will test the smart contract and compute the estimated gas cost. Th
 
 The library has been configured to output the estimated gas costs to a new `gas-report.txt` file on your root directory. You can then view the estimated gas consumption for each of the smart contract functions in this file. The `optimizedFunction()` should output a lower gas consumption to the `notOptimizedFunction()` as shown below.
 
-<img width="1000" alt="image" src="https://github.com/clement-stackup/gas_challenge/assets/120361535/98813689-46d4-49ed-901c-330736bf9277">
-
+![Screenshot 2023-07-11 at 2 34 24 PM](https://github.com/clement-stackup/gas_challenge/assets/120361535/99e33517-5974-40a1-aa87-279051e58e42)
 
 This command will also check that the sum of the array returns 0. You can refer below to view the terminal console when all tests have passed!
 
-<img width="673" alt="image" src="https://github.com/clement-stackup/gas_challenge/assets/120361535/01237b5e-5cc6-4d53-9b55-ef13da282cb9">
+![image](https://github.com/clement-stackup/gas_challenge/assets/120361535/760df9a2-c9f5-4c0f-af50-7a88093bdbda)
 
 ## Bounty Submission
 
