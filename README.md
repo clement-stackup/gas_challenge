@@ -45,7 +45,7 @@ The library has been configured to output the estimated gas costs to a new `gas-
 
 ![Screenshot 2023-07-11 at 2 34 24 PM](https://github.com/clement-stackup/gas_challenge/assets/120361535/99e33517-5974-40a1-aa87-279051e58e42)
 
-This command will also check that the sum of the array returns 0. You can refer below to view the terminal console when all tests have passed!
+This command will also check if the sum of the array returns 0. You can refer below to view the terminal console when all tests have passed!
 
 ![image](https://github.com/clement-stackup/gas_challenge/assets/120361535/760df9a2-c9f5-4c0f-af50-7a88093bdbda)
 
